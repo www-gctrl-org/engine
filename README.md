@@ -1,2 +1,2 @@
 # engine
-We're on a mission to enable real-time system controls on every platform.
+We are on a mission to empower engineers to create high-performance controls through intuitive, code-free design tools.
